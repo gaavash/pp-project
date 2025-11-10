@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-11-05T16:12:16Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.6608,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "main_box pcb v0"
+        },
+        "Owner": "Aavash Gurung <agurung14@myseneca.ca>",
+        "Size": {
+            "X": 106.66,
+            "Y": 100
+        }
+    }
+}
